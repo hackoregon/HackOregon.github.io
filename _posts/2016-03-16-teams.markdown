@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Teams"
+date:   2016-03-15 12:07:49
+categories: section
+suite: 1
+---
+
+## Introduction
+
+HackOregon is made of several teams:
+
+- [Campaign Finance](http://behindthecurtain.hackoregon.com)
+- ...
