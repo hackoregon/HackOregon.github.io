@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <h1>Best Practices</h1>
+
+  <p>This guide contains HackOregon best practices for use across our teams. The guides are open source and you are welcome to use them as you wish. We hope that other teams will adopt or modify the practices outlined here</p>
+
+  <p>By developing this material in the open, we hope to encourage expert review and contributions from members of the tech community, furthering our goal of improving how government works through increased civic engagement of tech specialists.</p>
+
+  <p>This is our first iteration of centralizing our methods, borrowed heavily from <a href="https://pages.18f.gov/guides/">18F</a>. Many changes to come.</p>
+
+  
+
+
+  <h1 class="page-heading">Sections</h1>
+
+  <ol>
+    {% for suite in (1..10) %}
+      {% for post in site.posts %}
+        {% if post.suite == suite %}
+        <li>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </li>
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  </ol>
+
+</div>
