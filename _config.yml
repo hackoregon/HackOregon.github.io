@@ -1,6 +1,6 @@
 # Site settings
 title: HackOregon Guides
-email: your-email@domain.com
+email: hello@hackoregon.org
 description: > # this means to ignore newlines until "baseurl:"
   A repository for HackOregon best practices and general information.
 baseurl: "" # the subpath of your site, e.g. /blog/
