@@ -1,0 +1,40 @@
+---
+layout: post
+title:  "Our Stack and Tools"
+date:   2016-10-24 12:07:49
+categories: section
+suite: 5
+---
+
+## Tech Stack (not definitive)
+
+[React.js](https://facebook.github.io/react/) - a declarative component based JavaScript library we use in our front end development
+
+[D3.js](https://github.com/d3/d3/wiki) - a JavaScript library we use for interactive data visualizations
+
+[Django](https://docs.djangoproject.com/en/1.10/) - an open source python based web framework
+
+[PostgreSQL](https://www.postgresql.org/docs/9.5/static/index.html) - an open source object-relational database system
+
+[Python](https://www.python.org/doc/) - a programming language we use server-side and for data analysis
+
+[Docker](https://docs.docker.com/) - an open source application container
+
+[Vagrant](https://www.vagrantup.com/docs/) - Development environment
+
+[Jupyter Notebook](https://jupyter.readthedocs.io/en/latest/index.html) - open source web application for simplifying and sharing data processes
+
+
+## Tools we frequently use
+
+[Slack](https://get.slack.help/hc/en-us/articles/218080037-Getting-started-for-new-users) - for communication with team members
+
+[Github](https://guides.github.com/) - for collaboration on code and documentation both among team members and the public
+
+[Google Drive](https://support.google.com/drive/?hl=en#topic=14940) - for file storage - each team will have access to shared folder
+
+[Trello](https://trello.com/guide) - project management tool
+
+[Amazon Web Services](https://aws.amazon.com/documentation/) - web hosting service
+
+[Waffle.io](https://help.waffle.io/hc/en-us) - integrates with github issues for developer project management and issue tracking and assignment
