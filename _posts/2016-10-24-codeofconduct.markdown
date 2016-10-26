@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Hack Oregon Code of Conduct"
+date:   2016-10-24 12:07:49
 categories: section
 suite: 2
 ---

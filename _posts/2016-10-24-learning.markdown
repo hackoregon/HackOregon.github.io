@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Learning Skills with Hack University"
+date:   2016-10-24 12:07:49
+categories: section
+suite: 3
+---
+
+We offer specialized, project based classes at beginner, intermediate, and advanced levels teaching skills and technologies we use in our project season that help get you job-ready as well prepare you to contribute to data-driven Hack Oregon projects, providing you with real-world experience and portfolio work if you choose to do so.
+
+
+During the Fall/Winter 2016 - 2017 season, many courses will have class deliverables that directly contribute and help progress the Hack Oregon volunteer projects.
+
+[Hack University Courses](http://www.hackoregon.org/hack-university/)
