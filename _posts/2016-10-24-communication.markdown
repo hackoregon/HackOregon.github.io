@@ -6,4 +6,4 @@ categories: section
 suite: 5
 ---
 
-<img src="{{site.baseurl}}/images/HO-communication-flow" alt="Hack Oregon Communication Flow">
+<img src="{{site.baseurl}}/images/HO-communication-flow.png" alt="Hack Oregon Communication Flow">
