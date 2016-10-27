@@ -3,7 +3,7 @@ layout: post
 title:  "Volunteering on a Hack Oregon Project"
 date:   2016-10-24 12:07:49
 categories: section
-suite: 4
+suite: 3
 ---
 
 All Hack Oregon projects are open source and built by an interdisciplinary team of volunteers.  We strive to have a mixed teams of varying levels of experience to work together to solve civic data problems and build skills, which you can get training for through Hack University courses.

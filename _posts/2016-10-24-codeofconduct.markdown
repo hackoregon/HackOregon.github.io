@@ -3,7 +3,7 @@ layout: post
 title:  "Hack Oregon Code of Conduct"
 date:   2016-10-24 12:07:49
 categories: section
-suite: 2
+suite: 1
 ---
 
 Everyone has the right to feel welcome and included at Hack Oregon. Our mission is to promote engagement and quality of life for all Oregonians. That same mission extends to all Hack Oregon events, meetings and gatherings.
