@@ -1,0 +1,32 @@
+---
+layout: post
+title:  "Roadmap and Important Dates"
+date:   2016-10-24 12:07:49
+categories: section
+suite: 7
+---
+
+### Hack Oregon Project Phases
+
+[Hack Oregon Project Tentative Roadmap](https://docs.google.com/spreadsheets/d/1JuvUo6hKXSIX4H3l8jCt_Ka3bLOU3eMNAiM2hBQ2so4/edit?usp=sharing)
+
+
+### Important Dates
+
+**Summit** (project kickoff)
+
+Our Fall/Winter Summit with be October 9th, 2016
+
+The Summit is our kickoff to the project season.  We invite the community to an open event to present what Hack Oregon is as an organization and information about our upcoming project themes and goals.   We pitch and recruit volunteers to join our project teams.
+
+**Buildathon**
+
+Our Fall/Winter season Buildathon will be February 19th, 2017(tentative)
+
+It’s a one day production sprint where we open up our project teams for guest contributors that want to be part of the magic and build something amazing, but might not have the time to participate in our months-long project season.  This is a great time to have others contribute to open issues on projects that ideally will have good documentation on how to get started contributing and what needs to get done.
+
+**Demo Day**
+
+Our Fall/Winter season Demo day will be March 5, 2017(tentative)
+
+The big day where all of our hard work will be shown to the world!  You’ll stand together and present project work with your team to the adoring public and answer questions.  
