@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "Team Roles"
+date:   2016-10-24 12:07:49
+categories: section
+suite: 6
+---
+
+**Strategic Development** - Develops the project vision during their time in the Strategic Development class, interviews and communicates with stakeholders.
+
+
+**Tech Lead**  - Will develop the documentation and software infrastructure for the project during their time in the Strategic Data Architecture course.  They will then lead the development team and be the development point person throughout the project cycle to ensure the project is adhering to the Infrastructure Guideline they created.  They will communicate with the team about goals, needs, and direction as well as the facilitator about benchmarks, issues, and changes.
+
+
+**Product Lead**  - Will develop the strategy and documentation for the design guide of the project during their time in the Strategic Product Design course.  They will then lead and be the point person for the design team and any product design questions throughout the project cycle to ensure the project is adhering to the Product Design Guideline they created.  They will communicate with the team about goals, needs, and direction as well as the facilitator about benchmarks, issues, and changes.
+
+
+**Facilitator**  - Oversees project progress and helps the team to meet and evaluate benchmarks.  They will communicate with the Tech Lead and the Product Lead to ensure projects are going smoothly and adhere to the overall mission outlined by the Vision Document.  They will communicate with the Program Director regarding benchmark progress, issues, and needs.  
+
+
+**Political Liaison**  - Will be a contact between government agencies and the project team to help communicate goals, progress, and generate interest and knowledge of the projects to government agencies.
+
+
+**Technical A-Team** - The A-Team consists of experienced volunteers that will be doing early project work and preparation, ramping up to the production phase.  Under the direction of the Tech Lead and the Data Architecture Documentation, they process data analysis, database development, develop APIs, and manage deployment.
+
+
+**Front-end Lead**  - Will ensure that the front-end team is knowledgeable of goals and project direction and be the point person for questions and issues.  They will communicate with the Tech and Product Leads of any issues and necessary changes to goals outlined in the Data Architecture Documentation and Product Design Guidelines.
+
+
+**Front-end A-Team** - Will develop the front-end, components, and data visualizations consistent with the guidelines outlined in the Product Design document and wireframes developed by the design team.
+
+
+**Design A-Team**  - Will design assets and wireframes consistent with the guidelines outlined by the Product Design Document, working and communicating with the Product Design Leads and the Front-end Lead
+
+
+### Junior Team Roles
+
+Project work from classes will feed into Hack Oregon project work and volunteers will likely join the project teams after their Hack University courses are finished and help support the A-Teams to project completion.  
+
+
+**Jr. API Developer** - Will help support and develop project API’s
+
+
+**Jr. Data Scientist** - Will analyze project databases to discover patterns and possible project direction
+
+
+**Jr. DevOps** - Will help with project deployment
+
+
+**Jr. Front-end Developer** - Will help develop React components and the front-end of the projects according to the Product Design Document.
+
+
+**Jr. UX** - Will help develop wireframes and do user testing/research
+
+
+**Jr. Data Visualization Developer** - Will help develop data visualization components using D3.js and React.js
+
+
+**Jr. Database Programer** - Will help prepare databases for use in Postgres for project API development
