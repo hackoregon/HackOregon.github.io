@@ -6,7 +6,7 @@ categories: section
 suite: 1
 ---
 
-Everyone has the right to feel welcome and included at Hack Oregon. Our mission is to promote engagement and quality of life for all Oregonians. That same mission extends to all Hack Oregon events, meetings and gatherings.
+Everyone has the right to feel welcome and included at Hack Oregon. Our mission is to promote engagement and quality of life for all Oregonian's. That same mission extends to all Hack Oregon events, meetings and gatherings.
 
 The Hack Oregon Code of Conduct is a resource for Hack Oregon volunteers, Hack University students and anyone who chooses to participate in a Hack Oregon hosted event. To keep our community a welcoming and worthwhile place, all participants must adhere to the Code of Conduct.
 
